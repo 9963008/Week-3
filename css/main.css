@@ -39,3 +39,9 @@ li a {
 	border-top: 1px solid #bbb;
 	border-bottom: 1px solid #bbb;
 }
+
+html {
+  font-family: Arial;
+  font-size: 20px;
+  -webkit-font-smoothing: antialiased;
+}
