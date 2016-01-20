@@ -1,5 +1,8 @@
 li {
     border-right: 1px solid #bbb;
+	border-left: 1px solid #bbb;
+	border-top: 1px solid #bbb;
+	border-bottom: 1px solid #bbb;
 }
 
 li:last-child {
@@ -12,7 +15,6 @@ li:last-child {
 
 ul {
     list-style-type: none;
-    margin: 0;
     padding: 0;
     overflow: hidden;
     background-color: #333;
@@ -20,6 +22,10 @@ ul {
 
 li {
     float: left;
+	border-right: 1px solid #bbb;
+	border-left: 1px solid #bbb;
+	border-top: 1px solid #bbb;
+	border-bottom: 1px solid #bbb;
 }
 
 li a {
@@ -28,4 +34,8 @@ li a {
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
+	border-right: 1px solid #bbb;
+	border-left: 1px solid #bbb;
+	border-top: 1px solid #bbb;
+	border-bottom: 1px solid #bbb;
 }
